@@ -1,0 +1,12 @@
+How to crawl a website:
+1) To crawl a website, use the cursor or mouse.
+
+How to save the images from the website:
+1) First right click the image which you want to download from the website.
+2) Next, Click on the save image as option among all the other options.
+3) After clicking the save image as option, Next select the location in your laptop where you want to save the image.
+ 
+How to save the text from the website:
+1)To save the text from the wesite, First select the text that you want to save.
+2)After selecting the text that you want to save, copy that text.
+3)Now place that copied text in the notepad.
